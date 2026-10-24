@@ -9,3 +9,4 @@
 - JavaScript
 
 ## Сайт
+https://konstantinod71-blip.github.io/Game-zone/
